@@ -1,3 +1,5 @@
+## ATTENTION!!! taskiq-admin is now a part of taskiq organization, to get the latest versions go to https://github.com/taskiq-python/taskiq-admin
+
 ## Broker-agnostic admin panel for Taskiq
 
 Standalone admin panel with all data stored in SQLite database
